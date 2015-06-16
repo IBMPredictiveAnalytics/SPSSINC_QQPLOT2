@@ -1,0 +1,86 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SPSSINC_QQPLOT2.R:54
+msgid "QQPLOT2"
+msgstr ""
+"QQPLOT2"
+
+#: SPSSINC_QQPLOT2.R:55
+msgid "QQPLOT2: Warnings"
+msgstr ""
+"QQPLOT2: Avisos"
+
+#: SPSSINC_QQPLOT2.R:60
+msgid "The PROGRAMFILE keyword is no longer supported"
+msgstr ""
+"A palavra-chave PROGRAMFILE não é mais suportada"
+
+#: SPSSINC_QQPLOT2.R:69
+msgid "Exactly one variable must be specified if there is a grouping variable"
+msgstr ""
+"Exatamente uma variável deve ser especificada se houver uma variável de agrupamento"
+
+#: SPSSINC_QQPLOT2.R:75
+msgid "The BY variable is constant or is not a factor"
+msgstr ""
+"A variável BY é constante ou não é um fator"
+
+#: SPSSINC_QQPLOT2.R:83
+msgid " (first group)"
+msgstr ""
+" (primeiro grupo)"
+
+#: SPSSINC_QQPLOT2.R:85
+msgid " (second group)"
+msgstr ""
+" (segundo grupo)"
+
+#: SPSSINC_QQPLOT2.R:86
+msgid "Groups: "
+msgstr ""
+"Grupos: "
+
+#: SPSSINC_QQPLOT2.R:91
+msgid "Two Group Q-Q Plot"
+msgstr ""
+"Gráfico Q-Q de dois grupos"
+
+#: SPSSINC_QQPLOT2.R:96
+msgid "Exactly two variables must be specified if there is no grouping variable"
+msgstr ""
+"Exatamente duas variáveis devem ser especificadas se não houver nenhuma variável de agrupamento"
+
+#: SPSSINC_QQPLOT2.R:102
+msgid "Q-Q Plot"
+msgstr ""
+"Gráfico Q-Q"
+
+#: SPSSINC_QQPLOT2.R:144
+msgid "End of procedure"
+msgstr ""
+"Fim do procedimento"
+
+#: SPSSINC_QQPLOT2.R:171
+msgid "Message Number"
+msgstr ""
+"Número da mensagem"
+
+
