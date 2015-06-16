@@ -1,0 +1,86 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SPSSINC_QQPLOT2.R:54
+msgid "QQPLOT2"
+msgstr ""
+"QQPLOT2"
+
+#: SPSSINC_QQPLOT2.R:55
+msgid "QQPLOT2: Warnings"
+msgstr ""
+"QQPLOT2: 경고"
+
+#: SPSSINC_QQPLOT2.R:60
+msgid "The PROGRAMFILE keyword is no longer supported"
+msgstr ""
+"PROGRAMFILE 키워드는 더 이상 지원되지 않습니다."
+
+#: SPSSINC_QQPLOT2.R:69
+msgid "Exactly one variable must be specified if there is a grouping variable"
+msgstr ""
+"집단변수가 있는 경우에는 변수를 하나만 지정해야 합니다."
+
+#: SPSSINC_QQPLOT2.R:75
+msgid "The BY variable is constant or is not a factor"
+msgstr ""
+"BY 변수는 상수이며 요인이 아닙니다."
+
+#: SPSSINC_QQPLOT2.R:83
+msgid " (first group)"
+msgstr ""
+"(첫 번째 집단)"
+
+#: SPSSINC_QQPLOT2.R:85
+msgid " (second group)"
+msgstr ""
+"(두 번째 집단)"
+
+#: SPSSINC_QQPLOT2.R:86
+msgid "Groups: "
+msgstr ""
+"집단: "
+
+#: SPSSINC_QQPLOT2.R:91
+msgid "Two Group Q-Q Plot"
+msgstr ""
+"두 개의 집단 Q-Q 도표"
+
+#: SPSSINC_QQPLOT2.R:96
+msgid "Exactly two variables must be specified if there is no grouping variable"
+msgstr ""
+"집단변수가 없는 경우에는 변수를 두 개만 지정해야 합니다."
+
+#: SPSSINC_QQPLOT2.R:102
+msgid "Q-Q Plot"
+msgstr ""
+"Q-Q 도표"
+
+#: SPSSINC_QQPLOT2.R:144
+msgid "End of procedure"
+msgstr ""
+"프로시저 끝"
+
+#: SPSSINC_QQPLOT2.R:171
+msgid "Message Number"
+msgstr ""
+"메시지 번호"
+
+
