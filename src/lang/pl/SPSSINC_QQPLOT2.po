@@ -1,0 +1,86 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SPSSINC_QQPLOT2.R:54
+msgid "QQPLOT2"
+msgstr ""
+"QQPLOT2"
+
+#: SPSSINC_QQPLOT2.R:55
+msgid "QQPLOT2: Warnings"
+msgstr ""
+"QQPLOT2: Ostrzeżenia"
+
+#: SPSSINC_QQPLOT2.R:60
+msgid "The PROGRAMFILE keyword is no longer supported"
+msgstr ""
+"Słowo kluczowe PROGRAMFILE nie jest już obsługiwane."
+
+#: SPSSINC_QQPLOT2.R:69
+msgid "Exactly one variable must be specified if there is a grouping variable"
+msgstr ""
+"W przypadku zmiennej grupującej należy określić dokładnie jedną zmienną"
+
+#: SPSSINC_QQPLOT2.R:75
+msgid "The BY variable is constant or is not a factor"
+msgstr ""
+"Zmienna BY jest stała lub nie jest czynnikiem"
+
+#: SPSSINC_QQPLOT2.R:83
+msgid " (first group)"
+msgstr ""
+" (pierwsza grupa)"
+
+#: SPSSINC_QQPLOT2.R:85
+msgid " (second group)"
+msgstr ""
+" (druga grupa)"
+
+#: SPSSINC_QQPLOT2.R:86
+msgid "Groups: "
+msgstr ""
+"Grupy: "
+
+#: SPSSINC_QQPLOT2.R:91
+msgid "Two Group Q-Q Plot"
+msgstr ""
+"Wykres - dwie grupy K-K"
+
+#: SPSSINC_QQPLOT2.R:96
+msgid "Exactly two variables must be specified if there is no grouping variable"
+msgstr ""
+"W przypadku braku zmiennej grupującej należy określić dokładnie dwie zmienne"
+
+#: SPSSINC_QQPLOT2.R:102
+msgid "Q-Q Plot"
+msgstr ""
+"Wykres K-K"
+
+#: SPSSINC_QQPLOT2.R:144
+msgid "End of procedure"
+msgstr ""
+"Koniec procedury"
+
+#: SPSSINC_QQPLOT2.R:171
+msgid "Message Number"
+msgstr ""
+"Numer komunikatu"
+
+
