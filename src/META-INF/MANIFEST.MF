@@ -1,0 +1,17 @@
+Name: SPSSINC QQPLOT2
+Dialog-Specs: SPSSINC_QQPLOT2.spd
+Command-Specs: SPSSINC_QQPLOT2.xml
+Code-Files: SPSSINC_QQPLOT2.R
+Misc-Files: markdown.html,extsyntax.css,IBMdialogicon.png
+Summary: Two variable or two group Q-Q plot
+Description: The standard Q-Q plot in Statistics plots a variable agai
+ nst a theoretical distribution.  This package produces a Q-Q plot of 
+ one variable against another one or a plot of a variable's distributi
+ on in one group against the distribution in another group.
+Author: JKP, IBM SPSS
+Version: 1.0.4
+Product-Version: 18
+Date: 5/28/2014
+Categories: graphics, qqplot
+Plugins: R
+Translation-Catalogues: lang
