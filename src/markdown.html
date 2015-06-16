@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=9" >
+
+<title>SPSSINC QQPLOT2 Extension Command</title>
+
+<link rel="stylesheet" type="text/css" href="extsyntax.css" />
+
+
+
+
+
+</head>
+
+<body>
+<h1>SPSSINC QQPLOT2 Extension Command</h1>
+
+<p>Create a QQ plot of one variable against another or
+a plot of the same variable in a partition of the data
+into two subsamples.</p>
+<div class="syntax">
+<p>SPSSINC QQPLOT2 VARIABLES=<em>one or two variable-names</em><sup>&#42;</sup><br/>
+BY=<em>variable</em><br/>
+OPTIONS TITLE=&ldquo;<em>text</em>&rdquo;</p>
+
+<p><sup>&#42;</sup> Required</p>
+</div>
+<p>SPSSINC QQPLOT2 /HELP prints this information and does nothing else.</p>
+<pre class="example"><code>SPSSINC QQPLOT2 VARIABLES=mpg BY=type.
+</code></pre>
+
+<p>Split files and weight are not honored by this command.</p>
+
+<p><strong>VARIABLES</strong> specifies one or two variable names.  If there are two, their
+distributions are compared.  The y variable comes first.
+If there is one, a grouping variable must be specified, and the 
+groups defined by that variable will be compared.</p>
+
+<p><strong>BY</strong> specifies a grouping variable, which should have exactly two values.  If
+there are more, the first two will be used.</p>
+
+<h2>OPTIONS</h2>
+
+<p><strong>TITLE</strong> can be specified as a quoted string to replace the default title.</p>
+
+<p><strong>PROGRAMFILE</strong> is no longer supported.</p>
+
+
+
+<p>&copy; Copyright IBM Corp. 1989, 2014</p>
+
+</body>
+
+</html>
+
