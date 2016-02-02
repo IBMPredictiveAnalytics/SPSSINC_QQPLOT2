@@ -1,11 +1,11 @@
 # SPSSINC QQPLOT2
 ## Two variable or two group Q-Q plot
- The standard Q-Q plot in Statistics plots a variable agai  nst a theoretical distribution.  This package produces a Q-Q plot of   one variable against another one or a plot of a variable's distributi  on in one group against the distribution in another group.
+ The standard Q-Q plot in Statistics plots a variable against a theoretical distribution.  This package produces a Q-Q plot of   one variable against another one or a plot of a variable's distribution in one group against the distribution in another group.
 
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later
+- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for R.
 
 ---
 Installation intructions
