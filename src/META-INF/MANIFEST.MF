@@ -1,4 +1,5 @@
 Name: SPSSINC QQPLOT2
+Display-Name: Two Variable Q-Q Plot
 Dialog-Specs: SPSSINC_QQPLOT2.spd
 Command-Specs: SPSSINC_QQPLOT2.xml
 Code-Files: SPSSINC_QQPLOT2.R
@@ -15,3 +16,4 @@ Date: 5/28/2014
 Categories: graphics, qqplot
 Plugins: R
 Translation-Catalogues: lang
+Product-Version-Maximum: 99
